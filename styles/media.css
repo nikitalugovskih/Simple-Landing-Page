@@ -1,0 +1,107 @@
+/* !.1024resolution________________________ */
+@media(max-width: 1024px) {
+    .header__nav,
+    .header__button {
+        display: none;
+    }
+    .header__menu-btn {
+        display: block;
+    }
+}
+.header {
+    margin-bottom: 50px;
+    justify-content: space-between;
+}
+
+@media(max-width:768px){
+    .wrapper{
+        max-width:768px;
+        margin: 0 auto;
+        padding: 0px 15px;
+    }
+    .hero__title{
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .hero__subtitle{
+        font-size: 21px;
+    }
+    .about{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 50px 30px;
+        width: 100%;
+        align-content: flex-end;
+        justify-content: center;
+    }
+    .about__title{
+        font-size: 40px;
+        text-align: center;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .about__articles {
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    }
+    .about__image {
+        width: 243px;
+        height: 253px;
+    }
+    .offers__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .offers__list {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 35px;
+        text-align: center;
+    }
+    .offers__item  {
+        display: contents;
+    }
+    .showcases {
+        flex-wrap: wrap;
+    }
+    .cases__title {
+        font-size: 40px;
+        display: flex;
+        text-align: center;
+    }
+    .cases__text {
+        text-align: center;
+    }
+    .img {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .testtimonials__title {
+        font-size: 40px;
+    }
+    .testtimonials__content {
+        flex-wrap: wrap;
+    }
+    .testtimonials__article {
+    padding: 30px;
+    }
+}
+
+@media(max-width: 568px){
+    .wrapper{
+        max-width: 460px;
+        margin: 0 auto;
+        padding: 0px 15px;
+    }
+    .about__articles {
+        display: flex;
+    }
+}
