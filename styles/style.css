@@ -24,7 +24,7 @@ body {
     width: 80px;
     height: 80px;
     margin-right: 80px;
-    background: url("../header/cat-logo.jpg") center/cover no-repeat;
+    background: url("../assets/logo/cat-logo.jpg") center/cover no-repeat;
 }
 
 .header__nav {
@@ -112,7 +112,7 @@ body {
 .about__image {
     width: 530px;
     height: 530px;
-    background: url("../assets/about/cat.jpg") center/cover no-repeat;
+    background: url("../assets/about/cat-logo.jpg") center/cover no-repeat;
 }
 
 .about__articles {
@@ -265,7 +265,7 @@ ul {
     Width: 240px;
     Height: 214px;
     display: flex;
-    background: url("../showcases/cat-1.jpg") center/cover no-repeat;
+    background: url("../assets/showcases/cat-1.jpg") center/cover no-repeat;
     border-radius: 5px;
 }
 
@@ -274,7 +274,7 @@ ul {
     Width: 240px;
     Height: 214px;
     display: flex;
-    background: url("../showcases/cat-2.jpg") center/cover no-repeat;
+    background: url("../assets/showcases/cat-2.jpg") center/cover no-repeat;
     border-radius: 5px;
 }
 
@@ -283,7 +283,7 @@ ul {
     Width: 240px;
     Height: 214px;
     display: flex;
-    background: url("../showcases/cat-3.JPG") center/cover no-repeat;
+    background: url("../assets/showcases/cat-3.JPG") center/cover no-repeat;
     border-radius: 5px;
 }
 
