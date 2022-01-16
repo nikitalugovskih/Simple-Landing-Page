@@ -1,6 +1,8 @@
 # The Simple Landing Page #
 
-1. The layout was created with the help of:
+__1. The layout was created with the help of__
+
+
 >Flexbox and 
 >BEM.
 Media queries were used in this layout.
