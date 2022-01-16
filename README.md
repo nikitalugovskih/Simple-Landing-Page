@@ -1,1 +1,1 @@
-(https://nikitalugovskih.github.io/landing-page/)[afafaf]
+[https://nikitalugovskih.github.io/landing-page/](afafaf)
