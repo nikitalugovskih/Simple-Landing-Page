@@ -5,7 +5,8 @@ __2. Media queries were used in this layout.__
 __3. Added adaptive for three types of devices:__
 * Ipad Air
 * Iphone SE
-* Iphone XR
+* Iphone XR.
+
 __Added burger menu.__
 
 
