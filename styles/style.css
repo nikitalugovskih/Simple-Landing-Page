@@ -108,6 +108,12 @@ body {
 .about__content {
     width: 50%;
 }
+/* .about__article-arrow {
+    background: url("../assets/about/arrow-1.png") center/cover no-repeat;
+}
+.about__arrow {
+    background: url("/assets/about/arrow-2.png") center/cover no-repeat;
+} */
 
 .about__image {
     width: 530px;
