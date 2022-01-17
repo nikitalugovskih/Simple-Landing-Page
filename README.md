@@ -1,6 +1,6 @@
 # The Simple Landing Page #
 
-(https://github.com/nikitalugovskih/landing-page/blob/main/preview.jpg)
+[preview](https://github.com/nikitalugovskih/landing-page/blob/main/preview.jpg?raw=true)
 
 __1. The layout was created with the help of Flexbox and BEM.__
 
