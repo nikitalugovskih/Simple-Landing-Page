@@ -11,3 +11,5 @@ __3. Added adaptive for three types of devices: Ipad Air, Iphone SE, Iphone XR._
 __4. Added burger menu.__
 
 __[DEMO](https://nikitalugovskih.github.io/landing-page/ "Необязательная подсказка")__
+
+![preview](https://github.com/nikitalugovskih/landing-page/blob/main/preview.jpg?raw=true)
