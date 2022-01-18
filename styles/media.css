@@ -1,4 +1,4 @@
-/* !.1024resolution________________________ */
+/* !.1024px resolution */
 @media(max-width: 1024px) {
     .header__nav,
     .header__button {
@@ -70,7 +70,7 @@
         flex-wrap: wrap;
     }
 }
-
+/* !.768px resolution */
 @media(max-width:768px){
     .wrapper{
         max-width:768px;
@@ -128,9 +128,6 @@
     .offers__item  {
         display: contents;
     }
-
-/* !SHOWCASES */
-
     .showcases {
         flex-wrap: wrap;
     }
@@ -166,6 +163,7 @@
     }
 }
 
+/* !.568px resolution */
 @media(max-width: 568px){
     .wrapper {
         max-width: 568px;
