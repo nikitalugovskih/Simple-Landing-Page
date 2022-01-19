@@ -8,15 +8,15 @@
         display: block;
     }
     .header {
-    margin-bottom: 50px;
-    justify-content: space-between;
+        margin-bottom: 50px;
+        justify-content: space-between;
     }
     .hero {
         padding-top: 50px;
     }
     .hero__title {
-    font-size: 53px;
-    font-weight: bold;
+        font-size: 53px;
+        font-weight: bold;
     }
     .about {
         display: flex;
@@ -159,9 +159,9 @@
         flex-wrap: wrap;
     }
     .testimonials__article {
-    padding: 30px;
-    flex-direction: column;
-    align-items: center;
+       padding: 30px;
+       flex-direction: column;
+       align-items: center;
     }
 }
 
@@ -174,14 +174,27 @@
 
     .about {
         display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 30px 0px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 30px 0px;
     }
     .about__articles {
         display: flex;
         text-align: initial;
+    }
+    .about__article {
+        text-align: center;
+        display: contents;
+    }
+    .about__article-arrow {
+        display: none;
+    }
+    .about__arrow {
+        display: none;
+    }
+    .about__link {
+        margin-bottom: 15px;
     }
     .offers {
         display: flex;
@@ -205,9 +218,9 @@
         align-items: center;
         }
     .gallery__image {
-            display: flex;
-            flex-wrap: wrap;
-            flex-direction: column;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
     .showcases {
         flex-wrap: wrap;
@@ -220,5 +233,9 @@
     .testimonials__article {
         display: flex;
         flex-wrap: wrap;
+    }
+    .testimonials {
+        display: flex;
+        flex-direction: column;
     }
 }
