@@ -111,6 +111,12 @@
         padding: 15px;
         margin-bottom: 20px;
     }
+    .about__arrow {
+        display: none;
+    }
+    .about__arrow {
+        display: none;
+    }
     .about__image {
         width: 243px;
         height: 253px;
@@ -187,7 +193,7 @@
         text-align: center;
         display: contents;
     }
-    .about__article-arrow {
+    .about__arrow {
         display: none;
     }
     .about__arrow {
