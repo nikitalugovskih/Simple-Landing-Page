@@ -42,6 +42,7 @@
     .offers__content {
         text-align: center;
         margin: 15px 15px;
+        flex: auto;
     }
     .offers__text {
         font-size: 22px;
