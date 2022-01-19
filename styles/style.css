@@ -172,6 +172,7 @@ body {
 .offers__content {
     width: 450px;
     border-style: solid;
+    padding: 10px 10px;
 
 }
 
